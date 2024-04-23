@@ -1,6 +1,13 @@
 # Awesome AI books
 
+This is a list of books about or related to Artificial Intelligence. 
+
+Note: With a few notable exceptions, this is a list of non-fiction books _about_ AI and related topics. If you are looking for technical books or reference materials related to AI development (or data science more generally), I recommend you take a look at the following lists made by other users (both of which I have found to be very useful): [Artificial Intelligence](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence) and [Data Science](https://github.com/data-science-projects-and-resources/Data-Science-EBooks)
+
+
+## Contents
 - [Theory](https://github.com/zachpinto/awesome-AI-books#introductory-theory-and-get-start)
+  
 - [Economics](https://github.com/zachpinto/awesome-AI-books#economics)
 - [Politics](https://github.com/zachpinto/awesome-AI-books#politics)
 - [Ethics](https://github.com/zachpinto/awesome-AI-books#ethics)
@@ -10,13 +17,14 @@
 - [Futurism](https://github.com/zachpinto/awesome-AI-books#futurism)
 - [Science Fiction](https://github.com/zachpinto/awesome-AI-books#science-fiction)
 
+---
+
 ### Theory
 - [Artificial Intelligence-A Modern Approach (3rd Edition)](https://yadi.sk/i/G6NlUUV8SAVimg) - Stuart Russell & peter Norvig
 - [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning?ref=nav_sb_ss_1_13) - Ian Goodfellow, Yoshua Bengio, Arron Courville
 - [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - Rishal Hurbans
 - [Grokking Deep Learning](https://www.goodreads.com/book/show/31565758-grokking-deep-learning?ref=nav_sb_ss_3_8) - Andrew W. Trask
 - [Grokking Deep Reinforcement Learning](https://www.goodreads.com/book/show/50336343-grokking-deep-reinforcement-learning?ref=nav_sb_ss_2_13) - Miguel Morales
-- [Artificial Intelligence by Example] - Denis Rothman
 - [The Master Algorithm](https://www.goodreads.com/book/show/24612233-the-master-algorithm?ref=nav_sb_ss_1_15) - Pedro Domingos
 - [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)
 - [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning?ref=nav_sb_ss_3_12) - Christopher M. Bishop
