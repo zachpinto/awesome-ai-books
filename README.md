@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome AI books
 
 This is a list of books about or related to Artificial Intelligence. 
