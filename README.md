@@ -9,7 +9,6 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 
 ## Contents
 - [Theory](https://github.com/zachpinto/awesome-AI-books#introductory-theory-and-get-start)
-  
 - [Economics](https://github.com/zachpinto/awesome-AI-books#economics)
 - [Politics](https://github.com/zachpinto/awesome-AI-books#politics)
 - [Ethics](https://github.com/zachpinto/awesome-AI-books#ethics)
@@ -30,7 +29,8 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [The Master Algorithm](https://www.goodreads.com/book/show/24612233-the-master-algorithm?ref=nav_sb_ss_1_15) - Pedro Domingos
 - [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)
 - [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning?ref=nav_sb_ss_3_12) - Christopher M. Bishop
-- [The Math of Neural Networks](https://www.goodreads.com/book/show/36269984-the-math-of-neural-networks?ref=nav_sb_ss_3_16)
+- [The Math of Neural Networks](https://www.goodreads.com/book/show/36269984-the-math-of-neural-networks?ref=nav_sb_ss_3_16) 
+- [Why Machines Learn](https://www.goodreads.com/book/show/195888801-why-machines-learn) - Anil Ananthaswamy
 - [Computers and Thought](https://www.goodreads.com/book/show/4616629-computers-and-thought?ref=nav_sb_ss_1_21) - Edward A. Feigenbaum
 - [The Deep Learning Revolution](https://www.goodreads.com/book/show/36722636-the-deep-learning-revolution?ref=nav_sb_ss_1_20) - Terrence J. Sejnowski
 - [The Philosophy of Artificial Intelligence](https://www.goodreads.com/book/show/2068489.The_Philosophy_of_Artificial_Intelligence?ref=nav_sb_ss_1_24) - Margaret A. Boden
@@ -46,11 +46,12 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [The Big Nine](https://www.goodreads.com/book/show/41717507-the-big-nine?ref=nav_sb_ss_1_12) - Amy Webb
 - [A World Without Work](https://www.readthistwice.com/lists/best-artificial-intelligence-books) - Daniel Susskind
 - [Human Need Not Apply](https://www.goodreads.com/book/show/24945487-humans-need-not-apply?ref=nav_sb_ss_2_11) - Jerry Kaplan
-- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/book/show/60321447-chip-war) - Chris Miller
+- [The Nvidia Way](https://www.goodreads.com/book/show/218319936-the-nvidia-way) - Tae Kim
 
 ### Politics
 - [Atlas of AI](https://www.goodreads.com/book/show/50131136-atlas-of-ai?ref=nav_sb_ss_1_11) - Kate Crawford
 - [The Political Philosophy of AI: An Introduction](https://www.goodreads.com/book/show/59146089-the-political-philosophy-of-ai?ref=nav_sb_ss_1_30) - Mark Coeckelbergh
+- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/book/show/60321447-chip-war) - Chris Miller
 
 ### Ethics
 - [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world?ac=1&from_search=true&qid=XUgW4msHNB&rank=1) - Hannah Fry
@@ -69,7 +70,8 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [Artifical Intelligence: A Guide for Thinking Humans](https://www.goodreads.com/book/show/43565360-artificial-intelligence?ref=nav_sb_ss_1_20)
 - [Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World](https://www.penguinrandomhouse.com/books/565698/genius-makers-by-cade-metz/) - Cade Metz
 - [AIQ](https://www.goodreads.com/book/show/39328092-aiq?ref=nav_sb_ss_1_3) - Nick Polson, James Scott
-
+- [From Deep Learning to Rational Machines](https://www.goodreads.com/book/show/149062541) - Cameron J. Buckner
+ 
 ### Alignment and Safety
 - [The Alignment Problem](https://www.goodreads.com/book/show/50489349-the-alignment-problem) - Brian Christian
 - [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-ebook/dp/B07N5J5FTS) - Stuart Russell
@@ -77,6 +79,7 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [Awkward Intelligence: Where AI Goes Wrong, Why It Matters, and What We Can Do about It](https://www.goodreads.com/book/show/60254404-awkward-intelligence?ref=nav_sb_ss_2_14) - Katharina A. Zweig
 - [Living with Robots: What Every Anxious Human Needs to Know](https://www.goodreads.com/book/show/55867860-living-with-robots?ref=nav_sb_ss_2_18) - Ruth Aylett, Patricia A. Vargas, Noel Sharkey
 - [Rebooting AI: Building Artificial Intelligence We Can Trust](https://www.goodreads.com/book/show/43999120-rebooting-ai?ref=nav_sb_ss_1_9) - Gary F. Marcus, Ernest Davis
+- [Superagency](https://www.goodreads.com/book/show/216336470-superagency?ac=1&from_search=true&qid=4XBSBIprwU&rank=1) - Reid Hoffman, Greg Beato
 
 ### Cognitive Science
 - [On Intellignece](https://www.goodreads.com/book/show/27539.On_Intelligence?ac=1&from_search=true&qid=fQq8VeeQRO&rank=1) - Jeff Hawkins
@@ -87,6 +90,7 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [The Emotion Machine](https://www.goodreads.com/book/show/169007.The_Emotion_Machine?ref=nav_sb_ss_1_19) - Marvin Minsky
 - [Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.goodreads.com/book/show/31934455-deep-thinking?ref=nav_sb_ss_1_13) - Garry Kasparov, Mig Greengard
 - [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence?ref=nav_sb_ss_1_15) - Jeff Hawkins, Sandra Blakeslee
+- [A Brief History of Intelligence](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence) - Max Solomon Bennett
 
 ### Futurism
 - [The Singularity is Near](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near?ref=nav_sb_ss_2_7) - Ray Kurzweil
