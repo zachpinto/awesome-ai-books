@@ -47,6 +47,9 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [A World Without Work](https://www.readthistwice.com/lists/best-artificial-intelligence-books) - Daniel Susskind
 - [Human Need Not Apply](https://www.goodreads.com/book/show/24945487-humans-need-not-apply?ref=nav_sb_ss_2_11) - Jerry Kaplan
 - [The Nvidia Way](https://www.goodreads.com/book/show/218319936-the-nvidia-way) - Tae Kim
+- [Abundance](https://www.goodreads.com/book/show/13187824-abundance) - Peter H. Diamandis, Steven Kotler
+- [The Future Is Faster Than You Think](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) - Peter H. Diamandis, Steven Kotler
+- [The Industries of the Future](https://www.goodreads.com/book/show/25111341-the-industries-of-the-future)
 
 ### Politics
 - [Atlas of AI](https://www.goodreads.com/book/show/50131136-atlas-of-ai?ref=nav_sb_ss_1_11) - Kate Crawford
@@ -107,6 +110,9 @@ Note: With a few notable exceptions, this is a list of non-fiction books _about_
 - [Homo Deus](https://www.readthistwice.com/lists/best-artificial-intelligence-books) - Yuval Noah Harari
 - [The Sentient Machine: The Coming Age of Artificial Intelligence](https://www.goodreads.com/book/show/34466959-the-sentient-machine?ref=nav_sb_ss_1_17) - Amir Husain
 - [To Be a Machine: Adventures Among Cyborgs, Utopians, Hackers, and the Futurists Solving the Modest Problem of Death](https://www.goodreads.com/book/show/30555486-to-be-a-machine?ref=nav_sb_ss_1_15) - Mark O'Connell
+- [Precipe](https://www.goodreads.com/book/show/50485582-the-precipice) - Toby Ord
+- [The Age of Em](https://www.goodreads.com/book/show/26831944-the-age-of-em) - Robin Hanson
+- [The Future of Humanity](https://www.goodreads.com/book/show/36407347-the-future-of-humanity) - Michui Kaku
 
 ### Science Fiction
 - [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City?ref=nav_sb_ss_1_6) - Greg Egan
